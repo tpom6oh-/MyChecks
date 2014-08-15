@@ -8,8 +8,6 @@
     <module name="UpperEll"/>
     <module name="MethodLength"/>
           <!-- your Check goes here -->
-    <module name="com.mychecks.MethodLimitCheck">
-      <property name="max" value="45"/>
-    </module>
+    <module name="com.mychecks.MethodLimitCheck"/>
   </module>
 </module>
